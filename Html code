@@ -1,12 +1,8 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 <head>
     <style>
 
-        Body {
-           \\ background-color: #463434;
-          \\  color: rgb(244, 255, 96);
-        }
     </STYle>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -16,33 +12,33 @@
     <img src="figuras/aaaa.jpeg" alt="aaaa"  width="200" height="150">
 
     <h2>Nome: Luiz Miguel Rodrigues de Souza</h2>
-    <h3>programador junir em C, e iniciando python, Java e Html,<br> tendo experiencia em manutenção de computadores </h3>
+    <h3>programador junir em C, e iniciando python, Java e Html,<br> tendo experiencia em manutenção de computadores. </h3>
 
 
-
+<h2>certificados de qualificação.</h2>
 <ul> 
-<h2><br>certificados de qualificação</h2>
-<li>tecnico em contabilidade pela E.E.E>P rosangela Albuquer de Colto</li>
-<li>graduando em engenharia da computação na UFC</li>
+<li>tecnico em contabilidade pela E.E.E.P rosangela Albuquer de Colto.</li>
+<li>graduando em engenharia da computação na UFC.</li>
 </ul>
 
+<h2>informações para contato.</h2>
 <ul>
-    <h2>informações para contato</h2>
    <li>Email para contato: luizmiguel6548@gmail.com</li>
    <li>telefone:(88) 99671-6510</li>
 </ul>
 
-<h3>sobre mim: um jovem iniciando na area do TI, com de3sejo de <br> se aventurar na programação e na criaçao de novas tecnologias</h3>
+<h3>sobre mim: um jovem iniciando na area do TI, com desejo de <br> se aventurar na programação e na criaçao de novas tecnologias.</h3>
 
-<ul>
-<h2>minhas redes</h2>
-<a href="https://www.linkedin.com/in/luiz-miguel-rodrigues-de-souza-726065304?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"> linkedin</a><br>
-<a href="https://github.com/Luiz-Miguel65">github</a>
-</ul>
+<h2>minhas redes.</h2>
+<p>
+<a href="https://www.linkedin.com/in/luiz-miguel-rodrigues-de-souza-726065304?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"> linkedin.</a><br>
+<a href="https://github.com/Luiz-Miguel65">github.</a>
+<p>
 <body>
 
-<ul>
     <h2>meus projetos</h2>
+<ul>
+
     <li>IMPLEMENTAÇÃO DE INFRAESTRUTURA DE CLUSTERS PARA HOSPEDAGEM <br> E SUPORTE A INICIATIVAS ACADÊMICAS DIGITAIS NO CAMPUS DA UFC DE SOBRAL</li>
 
 </ul>
