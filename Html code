@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
-    <style>
 <style>
 
   body {
@@ -14,9 +13,7 @@
   img {
     border-radius: 8px;
   }
-  body
 
-</style>
 
     </STYle>
     <meta charset="UTF-8">
@@ -26,27 +23,27 @@
     <body>
     <h1>Luiz Miguel</h1>
 
-    <img src="figuras/aaaa.jpeg" alt="aaaa"  width="200" height="150">
+    <img src="Figuras/LUIZ MIGUEL.jpeg" alt="foto luiz  miguel" width="200" height="150" >
 
     <h2>Nome: Luiz Miguel Rodrigues de Souza</h2>
-    <h3>programador junir em C, e iniciando python, Java e Html,<br> tendo experiencia em manutenção de computadores. </h3>
+    <h3>Programador junir em C, e iniciando python, Java e Html,<br> tendo experiencia em manutenção de computadores. </h3>
 
 
-<h2>certificados de qualificação.</h2>
+<h2>Certificados de qualificação.</h2>
 <ul> 
-<li>tecnico em contabilidade pela E.E.E.P rosangela Albuquer de Colto.</li>
-<li>graduando em engenharia da computação na UFC.</li>
+<li>Tecnico em contabilidade pela E.E.E.P rosangela Albuquer de Colto.</li>
+<li>Graduando em engenharia da computação na UFC.</li>
 </ul>
 
-<h2>informações para contato.</h2>
+<h2>Informações para contato.</h2>
 <ul>
-   <li>Email para contato: luizmiguel6548@gmail.com</li>
-   <li>telefone:(88) 99671-6510</li>
+   <li>Email para contato: luizmiguel6548@gmail.com&reg;</li>
+   <li>Telefone:(88) 99671-6510</li>
 </ul>
 
-<h3>sobre mim: um jovem iniciando na area do TI, com desejo de <br> se aventurar na programação e na criaçao de novas tecnologias.</h3>
+<h3>Sobre mim: um jovem iniciando na area do TI, com desejo de <br> se aventurar na programação e na criaçao de novas tecnologias.</h3>
 
-<h2>minhas redes.</h2>
+<h2>Minhas redes.</h2>
 <p>
   <a href="https://www.linkedin.com/in/luiz-miguel-rodrigues-de-souza-726065304?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">LinkedIn</a>
   <br>
@@ -54,12 +51,12 @@
 </p>
 
 
-    <h2>meus projetos</h2>
+    <h2>Meus projetos</h2>
 <ul>
 
     <li>IMPLEMENTAÇÃO DE INFRAESTRUTURA DE CLUSTERS PARA HOSPEDAGEM <br> E SUPORTE A INICIATIVAS ACADÊMICAS DIGITAIS NO CAMPUS DA UFC DE SOBRAL</li>
 
 </ul>
-    
+
 </body>
 </html>
